@@ -52,7 +52,7 @@ Modern workplaces reward productivity but rarely acknowledge emotional labor. *U
 
 ## 📄 Demo Materials
 
-- [Download Full Demo Report (PDF)](./UnderTheEaves_DemoReport.pdf)
+- [Download Full Demo Report (PDF)](./UnderTheEaves_Demoreport.pdf)
 - [View Prototype Screenshots](./assets/screenshots.md)
 - [Watch Demo Video (YouTube)](https://youtu.be/your-video-link-here)
 
